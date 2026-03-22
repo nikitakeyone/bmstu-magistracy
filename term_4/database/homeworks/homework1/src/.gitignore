@@ -1,0 +1,3 @@
+./docker/mongo/*
+./docker/postgres/data/*
+./app/vendor
